@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Robert",
+      "last_name": "Schwartz",
+      "email": "rob23@gmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Lucy",
+      "last_name": "Ballmer",
+      "email": "lucyb56@gmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Anna",
+      "last_name": "Smith",
+      "email": "annasmith23@gmail.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Robert",
+      "last_name": "Brown",
+      "email": "bobbrown432@yahoo.com"
+    },
+    {
+      "id": 5,
+      "first_name": "Roger",
+      "last_name": "Bacon",
+      "email": "rogerbacon12@yahoo.com"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "name": "amirul",
+      "email": "amirul@gmail.com"
+    },
+    {
+      "name": "adsd",
+      "email": "dasdsa@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 6
+    },
+    {
+      "name": "adsdsa",
+      "email": "asdasd@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "fdfdf",
+      "email": "fsff@dad.com",
+      "id": 8
+    },
+    {
+      "name": "adasdasd",
+      "email": "sfsdf@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "sfdsfdfdvfdv",
+      "email": "fbfgf@hfsdfj.com",
+      "id": 10
+    }
+  ],
+  "contact": [
+    {
+      "name": "Amirul Fatta",
+      "address": "Komp. Tiban III Blok C1 19",
+      "email": "it.amirulfatta@gmail.com",
+      "phone": "082268604946",
+      "company": "CoderJS",
+      "id": 1
+    },
+    {
+      "name": "Amirul Fatta",
+      "address": "Komp. Tiban III Blok C1 19",
+      "email": "it.amirulfatta@gmail.com",
+      "phone": "6456546",
+      "company": "CoderJS",
+      "id": 2
+    },
+    {
+      "name": "Amirul Fatta",
+      "address": "Komp. Tiban III Blok C1 19",
+      "email": "it.amirulfatta@gmail.com",
+      "phone": "798",
+      "company": "CoderJS",
+      "id": 3
+    },
+    {
+      "name": "Amirul Fatta",
+      "address": "Komp. Tiban III Blok C1 19",
+      "email": "it.amirulfatta@gmail.com",
+      "phone": "9878",
+      "company": "hkhj",
+      "id": 4
+    },
+    {
+      "name": "bebek goreng",
+      "address": "Komp. Nusantara Golden Blok B 10 Batam Center",
+      "email": "it.amirulfatta@gmail.com",
+      "phone": "576657",
+      "company": "CoderJS",
+      "id": 5
+    }
+  ]
+}
